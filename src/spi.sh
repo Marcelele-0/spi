@@ -1,0 +1,1 @@
+/home/licho/spi-pkg/spi.sh
